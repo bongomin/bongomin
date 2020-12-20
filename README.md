@@ -28,16 +28,16 @@ I am a full-stack Software Engneer. I can provide clean code and pixel perfect d
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  pronouns: "Him" | "He",
+  code: [Javascript, HTML, CSS,JQuery],
+  tools: [React, Redux, Node,VueJs,Vuex, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern",Test-Driven],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        coorganizer: "Refactory Ug, Andela Ug",
+                        Language: "English",
+                        mentor: "---------"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am Leaning from Udemy"
 }
 ```
 
