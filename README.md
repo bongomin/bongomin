@@ -29,7 +29,7 @@ I am a full-stack Software Engneer. I can provide clean code and pixel perfect d
 ```javascript
 const bongominDaniel = {
   pronouns: "Him" | "He",
-  code: [Javascript, HTML, CSS,JQuery],
+  code: [Javascript, HTML, CSS,JQuery,Python],
   tools: [React, Redux, Node,VueJs,Vuex, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern",Test-Driven],
   techCommunities: {
@@ -37,7 +37,6 @@ const bongominDaniel = {
                         Language: "English",
                         mentor: "---------"
                       },
- challenge: "I am Leaning from Udemy"
 }
 ```
 
