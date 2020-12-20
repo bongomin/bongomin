@@ -24,7 +24,7 @@ I am a full-stack Software Engneer. I can provide clean code and pixel perfect d
 
 ![Bongomin's github stats](https://github-readme-stats.vercel.app/api?username=bongomin&hide=contribs,prs)
 
-const thai = {
+```const thai = {
   pronouns: "Mr" | "he","Him",
   code: [Javascript,HTML, CSS,Python,],
   tools: [React, Redux, Node,VueJs,Vuex,Express, Storybook, Styled-Components, Jest, Docker,Git,GitHub],
@@ -35,8 +35,9 @@ const thai = {
                         Employer: "Bposeats.com"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+}```
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <h3>How to reach me: </h3>
 <p><a href="https://twitter.com/kicdan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/daniel-bongomin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
