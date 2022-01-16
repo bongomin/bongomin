@@ -33,7 +33,7 @@ const bongominDaniel = {
   tools: [React, Redux, Node,VueJs,Vuex, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern",Test-Driven],
   techCommunities: {
-                        coorganizer: "Refactory Ug, Andela Ug",
+                        coorganizer: "Refactory Ug",
                         Language: "English",
                         mentor: "---------"
                       },
