@@ -77,3 +77,9 @@ Here are some ideas to get you started:
 
 ## - Rate Company . https://rate-company-app.herokuapp.com/
 - An app developed for rating Organisations/ Companies
+
+## - Hqzen . https://hqzen.com/
+- Hqzen is an ecosystem , that is used to in project management, monitoring employess progress, payrolls etc
+
+## - Applybpo https://applybpo.com/
+- Applybpo is a web application that is used by employers and employees in keeping employeee informations
