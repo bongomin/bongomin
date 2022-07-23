@@ -63,3 +63,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Major Projects
+
+## - DannyDev App  	DannyDevChat.  https://dannydevchat.vercel.app/
+- A social media Platform
+
+## - Locate Your Place . https://vsp-front-end.vercel.app/
+- search your location with ease App 
+
+## - Text Editor - https://text-editor-creater-vuejs.vercel.app/
+- A vue text editor developed Using Vue Js
+
+## - Rate Company . https://rate-company-app.herokuapp.com/
+- An app developed for rating Organisations/ Companies
