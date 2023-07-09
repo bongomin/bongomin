@@ -3,7 +3,7 @@
 I am a full-stack Software Engneer. I can provide clean code and pixel perfect design. I do not shy away from challenges in my field of work and as a result I have learned a lot and amassed numerous skills and problem solving techniques over the years. I am always looking to improve my craft and keep up with the fast evolving nature of the IT industry.
 
 ### My PortFolio
-- Link: [https://my-profile-murex-five.vercel.app/](Personal Portfolio)
+- Link: [https://my-profile-murex-five.vercel.app/](https://my-profile-murex-five.vercel.app/)
 
 ## Languages
 
@@ -48,7 +48,7 @@ I am a full-stack Software Engneer. I can provide clean code and pixel perfect d
   </a>
 </p>
 
-<a href="https://my-profile-murex-five.vercel.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://my-profile-murex-five.vercel.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=bongomin&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bongomin&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 
 <h3>How to reach me: </h3>
