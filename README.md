@@ -18,21 +18,36 @@ I am a full-stack Software Engneer. I can provide clean code and pixel perfect d
 
 ### Feild of Specialization
 <p>
-  <img alt="Api" src="https://img.shields.io/badge/-API-F7B93E?style=flat-square&logo=api&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-430098?style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Rails-45b8d8?style=flat-square&logo=ruby-on-rails&logoColor=white" />
+  <img alt="API" src="https://img.shields.io/badge/-API-F7B93E?style=flat-square&logo=api&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-8DD6F9?style=flat-square&logo=react&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" href="https://www.mongodb.com/"/>
-  <img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-CB3837?style=flat-square&logo=Express.js&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" href="https://www.mongodb.com/" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-CB3837?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-43853d?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <a href="https://vuejs.org/" target="_blank">
+    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  </a>
 </p>
+
 
 ![Bongomin's github stats](https://github-readme-stats.vercel.app/api?username=bongomin&hide=contribs,prs)
 
