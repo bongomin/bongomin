@@ -2,12 +2,10 @@
 
 I am a full-stack Software Engneer. I can provide clean code and pixel perfect design. I do not shy away from challenges in my field of work and as a result I have learned a lot and amassed numerous skills and problem solving techniques over the years. I am always looking to improve my craft and keep up with the fast evolving nature of the IT industry.
 
-<h4> My PortFolio</h4>
+### My PortFolio
 - https://my-profile-murex-five.vercel.app/
 
-
-<h3> Field Of Specialization</h3>
-<p>
+### Feild of Specialization
  
   <img alt="Api" src="https://img.shields.io/badge/-API-F7B93E?style=flat-square&logo=api&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-8DD6F9?style=flat-square&logo=react&logoColor=white" />
@@ -28,20 +26,6 @@ I am a full-stack Software Engneer. I can provide clean code and pixel perfect d
 ![Bongomin's github stats](https://github-readme-stats.vercel.app/api?username=bongomin&hide=contribs,prs)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const bongominDaniel = {
-  pronouns: "Him" | "He",
-  code: [Javascript, HTML, CSS,JQuery,Python],
-  tools: [React, Redux, Node,VueJs,Vuex, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern",Test-Driven],
-  techCommunities: {
-                        coorganizer: "Refactory Ug",
-                        Language: "English",
-                        mentor: "---------"
-                      },
-}
-```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
