@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 # Major Projects
 
-This repository contains several major projects developed by [Your Name].
+This section contains some projects i deveped......
 
 ### DannyDev App - DannyDevChat
 
@@ -113,6 +113,6 @@ Applybpo is a web application used by employers and employees to manage employee
 
 Feel free to explore each project by following the respective links.
 
-If you have any questions or feedback, please contact [Your Name] at [your@email.com].
+If you have any questions or feedback, please contact me at bongomindaniel@gmail.com.
 
 
