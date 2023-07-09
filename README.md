@@ -5,6 +5,17 @@ I am a full-stack Software Engneer. I can provide clean code and pixel perfect d
 ### My PortFolio
 - https://my-profile-murex-five.vercel.app/
 
+## Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+[![Postgresql](https://img.shields.io/badge/-SQL-336791?logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
+
+
 ### Feild of Specialization
  
   <img alt="Api" src="https://img.shields.io/badge/-API-F7B93E?style=flat-square&logo=api&logoColor=white" />
