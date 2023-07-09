@@ -17,7 +17,7 @@ I am a full-stack Software Engneer. I can provide clean code and pixel perfect d
 
 
 ### Feild of Specialization
- 
+<p>
   <img alt="Api" src="https://img.shields.io/badge/-API-F7B93E?style=flat-square&logo=api&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-8DD6F9?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -43,7 +43,7 @@ I am a full-stack Software Engneer. I can provide clean code and pixel perfect d
 ---
 
 <h3>How to reach me: </h3>
-<p><a href="https://twitter.com/kicdan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/daniel-bongomin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://twitter.com/kicdan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/daniel-bongomin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 <!--
