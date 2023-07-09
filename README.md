@@ -9,7 +9,7 @@ I am a full-stack Software Engneer. I can provide clean code and pixel perfect d
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://www.java.com/)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 [![Postgresql](https://img.shields.io/badge/-SQL-336791?logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
