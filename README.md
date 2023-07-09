@@ -73,20 +73,46 @@ Here are some ideas to get you started:
 
 # Major Projects
 
-## - DannyDev App  	DannyDevChat.  https://dannydevchat.vercel.app/
-- A social media Platform
+This repository contains several major projects developed by [Your Name].
 
-## - Locate Your Place . https://vsp-front-end.vercel.app/
-- search your location with ease App 
+### DannyDev App - DannyDevChat
 
-## - Text Editor - https://text-editor-creater-vuejs.vercel.app/
-- A vue text editor developed Using Vue Js
+A social media platform for developers to connect, share ideas, and collaborate on projects. Users can create profiles, join communities, and participate in discussions.
 
-## - Rate Company . https://rate-company-app.herokuapp.com/
-- An app developed for rating Organisations/ Companies
+- Link: [https://dannydevchat.vercel.app/](https://dannydevchat.vercel.app/)
 
-## - Hqzen . https://hqzen.com/
-- Hqzen is an ecosystem , that is used to in project management, monitoring employess progress, payrolls etc
+### Locate Your Place
 
-## - Applybpo https://applybpo.com/
-- Applybpo is a web application that is used by employers and employees in keeping employeee informations
+An application that allows users to search for locations with ease. It provides features such as autocomplete suggestions, maps integration, and directions to the desired destination.
+
+- Link: [https://vsp-front-end.vercel.app/](https://vsp-front-end.vercel.app/)
+
+### Text Editor
+
+A text editor developed using Vue.js. It offers a simple and intuitive interface with features like syntax highlighting, code formatting, and customizable themes.
+
+- Link: [https://text-editor-creater-vuejs.vercel.app/](https://text-editor-creater-vuejs.vercel.app/)
+
+### Rate Company
+
+An app designed for rating organizations/companies. Users can provide feedback, rate their experiences, and read reviews submitted by other users.
+
+- Link: [https://rate-company-app.herokuapp.com/](https://rate-company-app.herokuapp.com/)
+
+### Hqzen
+
+Hqzen is an ecosystem used for project management, employee progress monitoring, payroll management, and more. It provides tools and features to streamline various aspects of business operations.
+
+- Link: [https://hqzen.com/](https://hqzen.com/)
+
+### Applybpo
+
+Applybpo is a web application used by employers and employees to manage employee information, including personal details, work history, and performance evaluations.
+
+- Link: [https://applybpo.com/](https://applybpo.com/)
+
+Feel free to explore each project by following the respective links.
+
+If you have any questions or feedback, please contact [Your Name] at [your@email.com].
+
+
