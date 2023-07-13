@@ -117,9 +117,9 @@ If you have any questions or feedback, please contact me at bongomindaniel@gmail
 
 
 ### Others
-Link 1: [https://my-profile-murex-five.vercel.app/](https://my-profile-murex-five.vercel.app/)
-Link 2: [https://recruitment-app-task-fwl9.vercel.app/](https://recruitment-app-task-fwl9.vercel.app/)
-Link 3: [https://ug-drive-hub.vercel.app/](https://ug-drive-hub.vercel.app/)
+- Link 1: [https://my-profile-murex-five.vercel.app/](https://my-profile-murex-five.vercel.app/)
+- Link 2: [https://recruitment-app-task-fwl9.vercel.app/](https://recruitment-app-task-fwl9.vercel.app/)
+- Link 3: [https://ug-drive-hub.vercel.app/](https://ug-drive-hub.vercel.app/)
 
 
 
